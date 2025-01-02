@@ -19,5 +19,8 @@ We hope to build a model that takes in images of the eye and accurately predicts
     - https://www.mdpi.com/2306-5729/6/2/14
     - https://jamanetwork.com/journals/jama/fullarticle/2588763
     - https://arxiv.org/pdf/1511.08458
-    - https://www.kdnuggets.com/2019/06/gradient-descent-algorithms-cheat-sheet.html 
-    
+    - https://www.kdnuggets.com/2019/06/gradient-descent-algorithms-cheat-sheet.html
+ 
+- **Sample Results**:
+    - Misclassifed: ![image](https://github.com/user-attachments/assets/0d84723b-5fde-4aaf-8927-513cd5b68a5c)
+    - Correct: ![image](https://github.com/user-attachments/assets/be0f25e2-2032-440f-ab67-b8247f6fb8d9)
